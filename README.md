@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Michele Giane
  <div>
-  <a href="https://github.com/michelegiane9">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michelegiane9&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelegiane9&layout=compact&langs_count=7&theme=jolly"/>
+  <a href="https://github.com/MicheleGiane9">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MicheleGiane9&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGiane9&layout=compact&langs_count=7&theme=jolly"/>
 </div>
  
 ##
@@ -16,6 +16,6 @@
 </div>
  <br><br>
  <div>
-  ![Snake animation](https://github.com/michelegiane9/michelegiane9/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MicheleGiane9/MicheleGiane9/blob/output/github-contribution-grid-snake.svg)
  </div>
 
